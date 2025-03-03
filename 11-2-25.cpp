@@ -1,5 +1,5 @@
 //program to demonstrate the working of function with no return type and no parameter.
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 class Program{
     public: void fun()
@@ -11,10 +11,10 @@ int main(){
     Program obj;
     obj.fun();
     return 0;
-}*/
+}
 
 //program to create a class with product_info and with a function with name Welcome_mesaage(), this function on execution will display a message on screen, "Welcome to my store".
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 class Product_info{
     public: void Welcome_mesaage(){
@@ -25,9 +25,9 @@ int main(){
     Product_info obj;
     obj.Welcome_mesaage();
     return 0;
-}*/
+}
 
-/*
+
 #include <iostream>
 using namespace std;
 class Program{
@@ -46,7 +46,7 @@ int main(){
     Program obj;
     obj.Accept();
     return 0;
-}*/
+}
 
 //write a program to create a class with name MyAPP and with functions name, Accept() and Display(), Accept() function will accept email and password from user and Display() function will display the information entered by the user on screen
 #include<iostream>
